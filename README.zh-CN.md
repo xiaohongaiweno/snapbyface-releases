@@ -90,6 +90,18 @@ SnapByFace 采用本地优先的工作流程进行媒体处理和人脸搜索。
 
 了解更多：[离线人脸搜索](https://snapbyface.com/offline-face-search/)
 
+## 使用场景指南
+
+按具体场景展开的详细说明：
+
+- [摄影师如何节省时间并优化工作流程](./How%20Photographers%20Can%20Save%20Time%20and%20Improve%20Their%20Workflow.zh-CN.md) — 大型拍摄的实用流程习惯，包括如何在素材库中找出某一个人
+- [剪辑师如何在数小时素材里定位一个人的每一次出镜](./How%20Video%20Editors%20Can%20Find%20Every%20Moment%20a%20Person%20Appears%20in%20Footage.zh-CN.md) — 把数小时素材变成出现时间段，不用再手动拖时间轴
+- [如何把多年的家庭照片和视频按人整理出来](./How%20to%20Organize%20Years%20of%20Family%20Photos%20and%20Videos%20by%20Person.zh-CN.md) — 先不用重新整理，就能建出一个可搜索的家庭相册
+- [活动摄影如何让宾客自己找到照片](./How%20Event%20Photographers%20Can%20Help%20Guests%20Find%20Their%20Own%20Photos.zh-CN.md) — 几分钟内回应「把有我的那几张发我」
+- [敏感照片与视频的离线人脸搜索](./Offline%20Face%20Search%20for%20Sensitive%20Photos%20and%20Videos.zh-CN.md) — 在把敏感素材交给工具之前，「本地」必须保证什么
+
+以上指南均有对应的英文版本，见 [README.md](./README.md)。
+
 ## 支持平台
 
 - Windows

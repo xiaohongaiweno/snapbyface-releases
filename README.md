@@ -90,6 +90,18 @@ Use a local face index to search your photo collection without depending on a cl
 
 Learn more: [Offline Face Search](https://snapbyface.com/offline-face-search/)
 
+## Use-Case Guides
+
+Longer, scenario-by-scenario walkthroughs:
+
+- [How Photographers Can Save Time and Improve Their Workflow](./How%20Photographers%20Can%20Save%20Time%20and%20Improve%20Their%20Workflow.md) — practical workflow habits for large shoots, including finding one person across a collection
+- [How Video Editors Can Find Every Moment a Person Appears in Footage](./How%20Video%20Editors%20Can%20Find%20Every%20Moment%20a%20Person%20Appears%20in%20Footage.md) — turn hours of footage into appearance time ranges instead of scrubbing
+- [How to Organize Years of Family Photos and Videos by Person](./How%20to%20Organize%20Years%20of%20Family%20Photos%20and%20Videos%20by%20Person.md) — build a searchable family archive without reorganising anything first
+- [How Event Photographers Can Help Guests Find Their Own Photos](./How%20Event%20Photographers%20Can%20Help%20Guests%20Find%20Their%20Own%20Photos.md) — answer "send me the ones with me in them" in minutes
+- [Offline Face Search for Sensitive Photos and Videos](./Offline%20Face%20Search%20for%20Sensitive%20Photos%20and%20Videos.md) — what "local" has to guarantee before you trust it with sensitive material
+
+Each guide is also available in Chinese — see [README.zh-CN.md](./README.zh-CN.md).
+
 ## Supported Platforms
 
 - Windows
