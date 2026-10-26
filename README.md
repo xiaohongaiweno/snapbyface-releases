@@ -50,7 +50,7 @@ Review matching results
 
 SnapByFace is designed for local and private media search. Your photos and videos are processed on your own computer instead of being uploaded to a cloud photo service.
 
-SnapByFace uses a local-first workflow for media processing and face search. The application itself may require an internet connection for functions such as license activation or update checks, but your media files are processed locally.
+SnapByFace uses a local-first workflow for media processing and face search. The face models ship inside the installer, so after installation searches run with the network unplugged. A licence is verified on your own computer — activation never contacts a server; only buying one happens in a browser. The single outbound request the app can make is an optional statistics ping (machine code, app version, operating system, language, activation state and plan). It carries no media, filenames, library sizes or search activity, times out after three seconds without retrying, and can be switched off in Settings.
 
 ## Who Is SnapByFace For?
 
@@ -157,7 +157,7 @@ SnapByFace is designed for local media processing. Your photos and videos are pr
 
 ### Does SnapByFace work offline?
 
-SnapByFace uses a local-first workflow for media processing and face search. The application may require an internet connection for functions such as license activation or update checks.
+Yes. Face models ship inside the installer, so detection and search run with the network unplugged. A licence is verified locally, so activating does not require a connection either — only buying one happens in a browser. The optional statistics ping is the only outbound request the app can make, and it can be disabled in Settings.
 
 ### Can SnapByFace search videos by face?
 

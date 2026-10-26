@@ -41,7 +41,7 @@ If it cannot run on an air-gapped or offline machine, it is not really local —
 - **One optional outbound request.** A device statistics ping containing machine code, app version, operating system, language and activation state — no filenames, no media, no search activity. It is off if you turn it off in Settings, and turning it off also requests deletion of that machine's records server-side.
 - **Activation works offline.** Licences are bound to a machine code and verified locally against a signature, so the machine code can be sent out of band and the key pasted in without an account.
 
-The two things that do need network: initial licence activation and the manual "check for updates" action, which only reports a version number and links to the download page — it never auto-installs.
+Nothing else needs the network. Activation itself is verified locally against a signature, so pasting a licence code works with the cable unplugged — only buying one happens in a browser. What remains is the optional statistics ping above and a manual "check for updates" action, which only reports a version number and links to the download page — it never auto-installs.
 
 ## Working with sensitive collections
 
